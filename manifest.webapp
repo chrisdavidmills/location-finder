@@ -1,0 +1,13 @@
+{
+  "name": "Location",
+  "description": "Location finder uses geolocation to find out where you are, and plots a map of your surroundings using the Google Maps API.",
+  "launch_path": "/~cmills/location-finder/",
+  "icons": {
+    "128": "/~cmills/location-finder/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Chris Mills",
+    "url": "http://www.conquestofsteel.co.uk"
+  },
+  "default_locale": "en"
+}
