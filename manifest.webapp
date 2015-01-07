@@ -1,9 +1,9 @@
 {
   "name": "Location",
   "description": "Location finder uses geolocation to find out where you are, and plots a map of your surroundings using the Google Maps API.",
-  "launch_path": "/~cmills/location-finder/",
+  "launch_path": "/location-finder/index.html",
   "icons": {
-    "128": "/~cmills/location-finder/img/icon-128.png"
+    "128": "/location-finder/img/icon-128.png"
   },
   "developer": {
     "name": "Chris Mills",
